@@ -1,5 +1,7 @@
 module Html.Internal where
 
+-- * Types
+
 newtype Html
   = Html String
 
