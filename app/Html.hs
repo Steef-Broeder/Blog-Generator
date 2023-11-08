@@ -4,9 +4,11 @@ module Html
   , Title
   , Structure
   , html_
+  , h1_
   , p_
   , ul_
-  , h1_
+  , ol_
+  , code_
   , append_
   , render
   )
